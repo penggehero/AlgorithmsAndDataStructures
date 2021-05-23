@@ -35,6 +35,9 @@ public class Offer04二维数组中的查找 {
 
     /**
      * 线性查找
+     * <p>
+     * 没啥好说的，matrix[0][j]的位置是特殊一个位置
+     *
      * @param matrix
      * @param target
      * @return
