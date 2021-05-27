@@ -1,6 +1,3 @@
-package DataStructures;
-
-
 public class ListNode {
 
     public int val;

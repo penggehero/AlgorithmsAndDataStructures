@@ -1,6 +1,6 @@
 package AimToOffer;
 
-import DataStructures.ListNode;
+import ListNode;
 
 import java.util.Stack;
 
